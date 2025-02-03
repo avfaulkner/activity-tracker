@@ -12,8 +12,9 @@ Task management tracker where users can create tasks which are tracked and displ
 
 
 ## Steps
-Install Rails (if not already installed)
+Install Rails 
 ```
+sudo apt  install ruby-rubygems
 gem install rails
 ```
 
